@@ -6,6 +6,8 @@ import java.util.Stack;
 
 /**
  * Created by Thomas on 24/02/2016.
+ *
+ * Ce commentaire répond à l'exigence numéro 3 (En fait je modifie juste le code pour faire un commit)
  */
 public class Impl implements SimpleStack {
 
