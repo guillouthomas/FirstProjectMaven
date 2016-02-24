@@ -2,6 +2,8 @@ package MySimpleStack;
 
 /**
  * Created by Thomas on 24/02/2016.
+ *
+ * Ce commentaire sert à répondre à l'exigence 1
  */
 public class Item {
 
